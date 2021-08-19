@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Svys2nov.VHealth.Vehicles.API", "src\Svys2nov.VHealth.Vehicles.API\Svys2nov.VHealth.Vehicles.API.csproj", "{CD49F610-2B13-48DD-AD4A-4D5CBBA6A710}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Svys2nov.VHealth.Domain", "src\Svys2nov.VHealth.Domain\Svys2nov.VHealth.Domain.csproj", "{34A047CF-2C4C-418A-A1C6-7B6577178847}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD49F610-2B13-48DD-AD4A-4D5CBBA6A710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD49F610-2B13-48DD-AD4A-4D5CBBA6A710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD49F610-2B13-48DD-AD4A-4D5CBBA6A710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD49F610-2B13-48DD-AD4A-4D5CBBA6A710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34A047CF-2C4C-418A-A1C6-7B6577178847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34A047CF-2C4C-418A-A1C6-7B6577178847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34A047CF-2C4C-418A-A1C6-7B6577178847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34A047CF-2C4C-418A-A1C6-7B6577178847}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
